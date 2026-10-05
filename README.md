@@ -1,2 +1,2 @@
 ## Hi there 👋
-I'm <a href="https://linktr.ee/shlummer>"Piotr</a>,a programmer based in Germany.
+I'm [Piotr](https://linktr.ee/shlummer),a programmer based in Germany.
