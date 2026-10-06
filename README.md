@@ -2,7 +2,7 @@
 
 I'm Piotr, a programmer based in Germany.
 
-I work mainly with Python, full-stack web development, and LLMs/AI.  
-Right now, I'm strengthening my Python fundamentals, learning C++, and getting deeper into algorithms, systems, and quantitative development.
+I work with Python, full-stack web development, and LLMs/AI.  
+Currently learning C++, algorithms, systems programming, and quantitative development.
 
-You can reach me through [my socials](https://linktr.ee/shlummer) or [email me](mailto:piotaaaaaaa@gmail.com) :>
+[Socials](https://linktr.ee/shlummer) · [Email](mailto:piotaaaaaaa@gmail.com)
